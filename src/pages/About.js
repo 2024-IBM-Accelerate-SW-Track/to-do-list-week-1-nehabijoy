@@ -14,8 +14,7 @@ export default class About extends Component {
             <div className="centered">
               <img 
               className="profile_image"
-              // C:\Verizon\NehaTest.jpg
-              // the image is imported
+            
               src = {profileImage}
               alt="Profile Pic"
               ></img>
@@ -25,7 +24,8 @@ export default class About extends Component {
               <div className="centered">
               <div className="name_title">Neha Bijoy</div>
               <div className="brief_description">
-              I'm Neha Bijoy!
+              Hi! I'm Neha and I'm a rising Junior at Virginia Tech. I'm majoring in Computer Science and minoring in Human Computer Interaction. 
+              I'm super excited to be a part of IBM's Accelerate, I can't wait to meet new friends and grow both professionally and technically.
               </div>
             </div>
           </div>
